@@ -1,0 +1,497 @@
+[
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_est_un_type_de",
+    "objet": "concentré de haschisch"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_a_comme_méthode_de_production",
+    "objet": "tamisage à sec"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_est_aussi_appelé",
+    "objet": "kief"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "poudre fine"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_peut_être_consommé_par",
+    "objet": "vaporisation"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_peut_être_consommé_dans",
+    "objet": "un joint"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_peut_être_intégré_dans",
+    "objet": "la cuisine"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_est_un_produit",
+    "objet": "pur"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_est_sans",
+    "objet": "solvants"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "propriétés thérapeutiques"
+  },
+  {
+    "sujet": "Dry Sift CBD",
+    "relation": "r_sépare",
+    "objet": "mécaniquement les trichomes"
+  },
+  {
+    "sujet": "kief",
+    "relation": "r_est_une",
+    "objet": "poudre"
+  },
+  {
+    "sujet": "kief",
+    "relation": "r_est_obtenu",
+    "objet": "sous un tamis"
+  },
+  {
+    "sujet": "kief",
+    "relation": "r_est_composé_de",
+    "objet": "trichomes"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_sont_des",
+    "objet": "glandes résineuses"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_sont_riches_en",
+    "objet": "cannabinoïdes et terpènes"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_se_détachent_facilement",
+    "objet": "avec le froid"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_sont_séparés_par",
+    "objet": "tamisage"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_contiennent",
+    "objet": "CBD"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_contiennent",
+    "objet": "terpènes"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_sont_la_partie_la_plus_précieuse_de",
+    "objet": "la plante de chanvre"
+  },
+  {
+    "sujet": "tamisage à sec",
+    "relation": "r_utilise_comme_matériel",
+    "objet": "tamis"
+  },
+  {
+    "sujet": "tamisage à sec",
+    "relation": "r_est_une",
+    "objet": "méthode d'extraction"
+  },
+  {
+    "sujet": "tamisage à sec",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "naturel à 100%"
+  },
+  {
+    "sujet": "fleurs de chanvre",
+    "relation": "r_sont_préparées_par",
+    "objet": "congélation"
+  },
+  {
+    "sujet": "congélation",
+    "relation": "r_rend_les_trichomes",
+    "objet": "plus friables"
+  },
+  {
+    "sujet": "têtes de cannabis",
+    "relation": "r_sont_un_ingrédient_pour",
+    "objet": "le Dry Sift"
+  },
+  {
+    "sujet": "feuilles",
+    "relation": "r_sont_un_ingrédient_pour",
+    "objet": "le Dry Sift"
+  },
+  {
+    "sujet": "papier parchemin",
+    "relation": "r_est_utilisé_pour",
+    "objet": "collecter le kief"
+  },
+  {
+    "sujet": "outil de raclage",
+    "relation": "r_est_utilisé_pour",
+    "objet": "rassembler le kief"
+  },
+  {
+    "sujet": "presse à pollen",
+    "relation": "r_sert_à",
+    "objet": "presser la poudre de kief"
+  },
+  {
+    "sujet": "presse à pollen",
+    "relation": "r_crée",
+    "objet": "une résine compacte"
+  },
+  {
+    "sujet": "finesse du tamis",
+    "relation": "r_détermine",
+    "objet": "la qualité du produit"
+  },
+  {
+    "sujet": "finesse du tamis",
+    "relation": "r_est_directement_proportionnelle_à",
+    "objet": "la qualité de la résine"
+  },
+  {
+    "sujet": "grinder",
+    "relation": "r_est_un_outil_pour",
+    "objet": "obtenir du Dry Sift"
+  },
+  {
+    "sujet": "grinder",
+    "relation": "r_a_comme_partie",
+    "objet": "compartiment à pollen"
+  },
+  {
+    "sujet": "hash shakers",
+    "relation": "r_sont_des_outils_pour",
+    "objet": "le Dry Sift"
+  },
+  {
+    "sujet": "récipient hermétique",
+    "relation": "r_sert_à",
+    "objet": "stocker le kief"
+  },
+  {
+    "sujet": "haschisch",
+    "relation": "r_est_un_concentré",
+    "objet": "de cannabis"
+  },
+  {
+    "sujet": "haschisch",
+    "relation": "r_peut_être",
+    "objet": "fumé en joint"
+  },
+  {
+    "sujet": "Ice O",
+    "relation": "r_est_un_type_de",
+    "objet": "gumby hash"
+  },
+  {
+    "sujet": "Ice O",
+    "relation": "r_est_aussi_appelé",
+    "objet": "Ice O l'ator du pauvre"
+  },
+  {
+    "sujet": "Ice O",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "simple à fabriquer"
+  },
+  {
+    "sujet": "Ice O",
+    "relation": "r_peut_être_fabriqué",
+    "objet": "au filtre à café"
+  },
+  {
+    "sujet": "gumby hash",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "peut avoir un arrière goût végétal"
+  },
+  {
+    "sujet": "Rosin",
+    "relation": "r_est_un_type_de",
+    "objet": "extrait d’huile de cannabis"
+  },
+  {
+    "sujet": "Rosin",
+    "relation": "r_est_un_produit",
+    "objet": "sans solvants"
+  },
+  {
+    "sujet": "Rosin",
+    "relation": "r_est_obtenu_par",
+    "objet": "pression et chaleur"
+  },
+  {
+    "sujet": "huile de cannabis",
+    "relation": "r_peut_être_extraite",
+    "objet": "avec des solvants"
+  },
+  {
+    "sujet": "BHO",
+    "relation": "r_est_un_type_de",
+    "objet": "huile de cannabis"
+  },
+  {
+    "sujet": "BHO",
+    "relation": "r_a_comme_solvant",
+    "objet": "butane"
+  },
+  {
+    "sujet": "Piattella",
+    "relation": "r_est_un_type_de",
+    "objet": "haschich"
+  },
+  {
+    "sujet": "Piattella",
+    "relation": "r_est_obtenu_par",
+    "objet": "affinage à froid"
+  },
+  {
+    "sujet": "Piattella",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "texture beurrée"
+  },
+  {
+    "sujet": "Bubble Hash",
+    "relation": "r_est_obtenu_par",
+    "objet": "extraction à l'eau glacée"
+  },
+  {
+    "sujet": "sacs de filtration",
+    "relation": "r_sont_utilisés_pour",
+    "objet": "l'extraction à l'eau glacée"
+  },
+  {
+    "sujet": "haschich",
+    "relation": "r_peut_être",
+    "objet": "décarboxylé"
+  },
+  {
+    "sujet": "décarboxylation",
+    "relation": "r_sert_à",
+    "objet": "activer les cannabinoïdes"
+  },
+  {
+    "sujet": "hash",
+    "relation": "r_est_un_type_de",
+    "objet": "amas de trichomes"
+  },
+  {
+    "sujet": "hash",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "goût et odeur peuvent être développés par affinage"
+  },
+  {
+    "sujet": "hash",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "peut devenir marron ou jaune"
+  },
+  {
+    "sujet": "sacs agglutinés",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "le hash colle au tamis"
+  },
+  {
+    "sujet": "Rosin Hash",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "plus intense et puissant que le Flower Rosin"
+  },
+  {
+    "sujet": "Rosin Hash",
+    "relation": "r_provient",
+    "objet": "du haschich"
+  },
+  {
+    "sujet": "Flower Rosin",
+    "relation": "r_provient",
+    "objet": "des bourgeons"
+  },
+  {
+    "sujet": "cannabinoïdes",
+    "relation": "r_sont_des",
+    "objet": "composés actifs"
+  },
+  {
+    "sujet": "cannabinoïdes",
+    "relation": "r_sont_contenus_dans",
+    "objet": "les trichomes"
+  },
+  {
+    "sujet": "terpènes",
+    "relation": "r_sont_des",
+    "objet": "composés aromatiques"
+  },
+  {
+    "sujet": "terpènes",
+    "relation": "r_sont_contenus_dans",
+    "objet": "les trichomes"
+  },
+  {
+    "sujet": "terpènes",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "sont solubles dans l'eau"
+  },
+  {
+    "sujet": "terpènes",
+    "relation": "r_a_pour_effet",
+    "objet": "un goût et une odeur pour le Hash"
+  },
+  {
+    "sujet": "CBD",
+    "relation": "r_est_un_type_de",
+    "objet": "cannabinoïde"
+  },
+  {
+    "sujet": "THC",
+    "relation": "r_est_un_type_de",
+    "objet": "cannabinoïde"
+  },
+  {
+    "sujet": "THC",
+    "relation": "r_a_comme_propriété",
+    "objet": "psychoactive"
+  },
+  {
+    "sujet": "CBDA",
+    "relation": "r_se_transforme_en",
+    "objet": "CBD"
+  },
+  {
+    "sujet": "CBDA",
+    "relation": "r_a_comme_processus_de_transformation",
+    "objet": "décarboxylation"
+  },
+  {
+    "sujet": "décarboxylation",
+    "relation": "r_se_produit_avec",
+    "objet": "la chaleur ou la lumière"
+  },
+  {
+    "sujet": "tamis à mailles fines",
+    "relation": "r_a_comme_dimension",
+    "objet": "120 à 150 microns"
+  },
+  {
+    "sujet": "sac de filtration",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "différentes tailles de mailles"
+  },
+  {
+    "sujet": "presse à haschisch",
+    "relation": "r_sert_à",
+    "objet": "compacter le kief en blocs"
+  },
+  {
+    "sujet": "surface de travail",
+    "relation": "r_doit_être",
+    "objet": "propre et plane"
+  },
+  {
+    "sujet": "laveuse pour extraction",
+    "relation": "r_facilite",
+    "objet": "le processus d'extraction"
+  },
+  {
+    "sujet": "grinder",
+    "relation": "r_a_comme_fonction",
+    "objet": "broyer la matière végétale"
+  },
+  {
+    "sujet": "masse végétale",
+    "relation": "r_est_un_matériau_de_base",
+    "objet": "pour l'extraction"
+  },
+  {
+    "sujet": "masse végétale",
+    "relation": "r_inclut",
+    "objet": "têtes de manucure, feuilles, bourgeons"
+  },
+  {
+    "sujet": "méthode de tamisage",
+    "relation": "r_peut_être",
+    "objet": "manuelle ou mécanique"
+  },
+  {
+    "sujet": "méthode d'extraction",
+    "relation": "r_détermine",
+    "objet": "le rendement et la pureté"
+  },
+  {
+    "sujet": "froid",
+    "relation": "r_facilite",
+    "objet": "la séparation des trichomes"
+  },
+  {
+    "sujet": "tamis",
+    "relation": "r_a_comme_partie/element",
+    "objet": "Ice O"
+  },
+  {
+    "sujet": "filtre à café permanent",
+    "relation": "r_peut",
+    "objet": "servir de tamis pour kief"
+  },
+  {
+    "sujet": "HashMaker",
+    "relation": "r_est_un_type_de",
+    "objet": "HashShaker"
+  },
+  {
+    "sujet": "HashMaker",
+    "relation": "r_a_comme_partie/element",
+    "objet": "cylindre, tamis, couvercles"
+  },
+  {
+    "sujet": "papier sulfurisé",
+    "relation": "r_a_comme_partie/element",
+    "objet": "HashMaker"
+  },
+  {
+    "sujet": "pièces de 1 cent",
+    "relation": "r_a_comme_partie/element",
+    "objet": "HashMaker"
+  },
+  {
+    "sujet": "têtes de manucure",
+    "relation": "r_fait_partie_de",
+    "objet": "Ice O"
+  },
+  {
+    "sujet": "têtes de manucure",
+    "relation": "r_peut",
+    "objet": "être utilisée pour faire du kief"
+  },
+  {
+    "sujet": "tamis 90 ou 73",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "meilleure qualité"
+  },
+  {
+    "sujet": "tamis 120 et 25",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "moins bonnes qualités"
+  },
+  {
+    "sujet": "sac 75 microns",
+    "relation": "r_fait_partie_de",
+    "objet": "méthode de consommation au vapo"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_est_un_type_de",
+    "objet": "concentré de haschisch"
+  },
+  {
+    "sujet": "Dry Sift",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "poudre fine"
+  },
+  {
+    "sujet": "trichomes",
+    "relation": "r_se_trouve_dans",
+    "objet": "la plante de chanvre"
+  },
+  {
+    "sujet": "grinder",
+    "relation": "r_a_comme_partie/element",
+    "objet": "compartiment à pollen"
+  },
+  {
+    "sujet": "Ice O",
+    "relation": "r_est_un_type_de",
+    "objet": "gumby hash"
+  },
+  {
+    "sujet": "Ice O",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "simple à fabriquer"
+  },
+  {
+    "sujet": "Ice O",
+    "relation": "r_peut",
+    "objet": "être fabriqué au filtre à café"
+  },
+  {
+    "sujet": "BHO",
+    "relation": "r_est_un_type_de",
+    "objet": "huile de cannabis"
+  },
+  {
+    "sujet": "Piattella",
+    "relation": "r_est_un_type_de",
+    "objet": "haschich"
+  },
+  {
+    "sujet": "Piattella",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "texture beurrée"
+  },
+  {
+    "sujet": "hash",
+    "relation": "r_est_un_type_de",
+    "objet": "amas de trichomes"
+  },
+  {
+    "sujet": "hash",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "goût et odeur peuvent être développés par affinage"
+  },
+  {
+    "sujet": "hash",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "peut devenir marron ou jaune"
+  },
+  {
+    "sujet": "sacs agglutinés",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "le hash colle au tamis"
+  },
+  {
+    "sujet": "Rosin Hash",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "plus intense et puissant que le Flower Rosin"
+  },
+  {
+    "sujet": "CBD",
+    "relation": "r_est_un_type_de",
+    "objet": "cannabinoïde"
+  },
+  {
+    "sujet": "THC",
+    "relation": "r_est_un_type_de",
+    "objet": "cannabinoïde"
+  },
+  {
+    "sujet": "terpènes",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "solubles dans l'eau"
+  },
+  {
+    "sujet": "tamis à mailles fines",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "120 à 150 microns"
+  },
+  {
+    "sujet": "sac de filtration",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "différentes tailles de mailles"
+  },
+  {
+    "sujet": "tamis",
+    "relation": "r_a_comme_partie/element",
+    "objet": "Ice O"
+  },
+  {
+    "sujet": "filtre à café permanent",
+    "relation": "r_peut",
+    "objet": "servir de tamis pour kief"
+  },
+  {
+    "sujet": "HashMaker",
+    "relation": "r_est_un_type_de",
+    "objet": "HashShaker"
+  },
+  {
+    "sujet": "HashMaker",
+    "relation": "r_a_comme_partie/element",
+    "objet": "cylindre, tamis, couvercles"
+  },
+  {
+    "sujet": "papier sulfurisé",
+    "relation": "r_a_comme_partie/element",
+    "objet": "HashMaker"
+  },
+  {
+    "sujet": "pièces de 1 cent",
+    "relation": "r_a_comme_partie/element",
+    "objet": "HashMaker"
+  },
+  {
+    "sujet": "têtes de manucure",
+    "relation": "r_fait_partie_de",
+    "objet": "Ice O"
+  },
+  {
+    "sujet": "têtes de manucure",
+    "relation": "r_peut",
+    "objet": "être utilisée pour faire du kief"
+  },
+  {
+    "sujet": "tamis 90 ou 73",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "meilleure qualité"
+  },
+  {
+    "sujet": "tamis 120 et 25",
+    "relation": "r_a_comme_caracteristique",
+    "objet": "moins bonnes qualités"
+  },
+  {
+    "sujet": "sac 75 microns",
+    "relation": "r_fait_partie_de",
+    "objet": "méthode de consommation au vapo"
+  }
+]
